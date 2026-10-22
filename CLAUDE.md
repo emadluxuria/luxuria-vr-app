@@ -1,5 +1,7 @@
 # CLAUDE.md — luxuria-vr-app
 
+**⛔ مؤرشف (22 أكتوبر 2026):** لا تطوّر هنا. أي عمل على VR يكون في `emadluxuria/emad-al-deen-hq` (`vr/`).
+
 صفحة جولة VR في ملف واحد (`index.html`) + موديلات `glbdata/`. التفاصيل للبشر في `README.md`.
 
 ## قواعد
@@ -19,5 +21,5 @@ python3 -m http.server 8080   # ثم http://localhost:8080
 لا توجد اختبارات؛ بعد أي تعديل افتح الصفحة وتأكد من: تحميل موديل، وعدم وجود أخطاء في الـ console، وعمل الصفحة بدون بوابة.
 
 ## السياق
-- المشروع الرئيسي «توأم الغرفة» في `emadluxuria/emad-al-deen-hq` (`vr/room.html` وبوابة Cloudflare). لم يُحسم هل هذه الصفحة ما زالت مستخدمة؛ اسأل قبل تطوير كبير.
+- المشروع الرئيسي «توأم الغرفة» في `emadluxuria/emad-al-deen-hq` (`vr/room.html` وبوابة Cloudflare) هو المعتمد.
 - مجلد `voice/` مفقود؛ لا تفترض وجوده.
